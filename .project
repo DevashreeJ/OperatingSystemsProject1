@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Pos_Project1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/.DS_Store</name>
+			<type>1</type>
+			<location>C:/Users/devas/Pos_Project1/JNachosLab2Solution/src/.DS_Store</location>
+		</link>
+		<link>
+			<name>src/DISK</name>
+			<type>1</type>
+			<location>C:/Users/devas/Pos_Project1/JNachosLab2Solution/src/DISK</location>
+		</link>
+		<link>
+			<name>src/jnachos</name>
+			<type>2</type>
+			<location>C:/Users/devas/Pos_Project1/JNachosLab2Solution/src/jnachos</location>
+		</link>
+	</linkedResources>
+</projectDescription>
